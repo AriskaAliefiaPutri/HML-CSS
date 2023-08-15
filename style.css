@@ -1,3 +1,27 @@
 body{
     background-color:hsl(240, 100%, 90%);
 }
+
+img {
+    width: 200px;
+}
+
+/*nav{
+    margin-left: 200px;
+} */
+
+.batas {
+    margin-left: 200px;
+}
+
+.warna {
+    background-color: rgb(157, 157, 201);
+}
+
+#bekgron {
+    background-color: rgb(184, 158, 253);
+}
+
+#kiri {
+    margin-left: 200px;
+}
