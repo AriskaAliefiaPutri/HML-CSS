@@ -2,6 +2,22 @@ body{
     background-color:hsl(240, 100%, 90%);
 }
 
+
+div {
+    border: 2px solid rgb(157, 157, 201);
+    margin: 100px 0px 0px 50px;
+    /*margin-left: 200px; */
+
+    padding-top: 20px;
+
+
+}
+
+nav {
+    border: 3px solid rgb(178, 79, 224);
+}
+
+
 img {
     width: 200px;
 }
@@ -20,6 +36,8 @@ img {
 
 #bekgron {
     background-color: rgb(184, 158, 253);
+    position: sticky;
+    top: 200px;
 }
 
 #kiri {
